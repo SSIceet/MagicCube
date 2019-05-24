@@ -16,5 +16,17 @@
 雷属性：两块并排组合可消除右边任意属性魔块。
 
 
+
 游戏开始界面:
 ![image](https://github.com/SSIceet/MagicCube/blob/master/GifImage/Gameinterface.jpg)
+
+
+
+属性消除效果：
+![image](https://github.com/SSIceet/MagicCube/blob/master/GifImage/地消%5B00-00-18--00-00-19%5D.gif)
+
+![image](https://github.com/SSIceet/MagicCube/blob/master/GifImage/水火消%5B00-00-42--00-00-43%5D.gif)
+
+![image](https://github.com/SSIceet/MagicCube/blob/master/GifImage/雷消%5B00-00-04--00-00-06%5D.gif)
+
+![image](https://github.com/SSIceet/MagicCube/blob/master/GifImage/风消%5B00-00-39--00-00-42%5D.gif)
