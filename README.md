@@ -23,10 +23,12 @@
 
 
 属性消除效果：
-![image](https://github.com/SSIceet/MagicCube/blob/master/GifImage/地消%5B00-00-18--00-00-19%5D.gif)
 
-![image](https://github.com/SSIceet/MagicCube/blob/master/GifImage/水火消%5B00-00-42--00-00-43%5D.gif)
 
-![image](https://github.com/SSIceet/MagicCube/blob/master/GifImage/雷消%5B00-00-04--00-00-06%5D.gif)
+    ![image](https://github.com/SSIceet/MagicCube/blob/master/GifImage/地消%5B00-00-18--00-00-19%5D.gif)
 
-![image](https://github.com/SSIceet/MagicCube/blob/master/GifImage/风消%5B00-00-39--00-00-42%5D.gif)
+    ![image](https://github.com/SSIceet/MagicCube/blob/master/GifImage/水火消%5B00-00-42--00-00-43%5D.gif)
+
+    ![image](https://github.com/SSIceet/MagicCube/blob/master/GifImage/雷消%5B00-00-04--00-00-06%5D.gif)
+
+    ![image](https://github.com/SSIceet/MagicCube/blob/master/GifImage/风消%5B00-00-39--00-00-42%5D.gif)
