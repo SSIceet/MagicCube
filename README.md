@@ -15,4 +15,6 @@
 
 雷属性：两块并排组合可消除右边任意属性魔块。
 
-*![image]()
+
+游戏开始界面:
+![image](https://github.com/SSIceet/MagicCube/blob/master/GifImage/Gameinterface.jpg)
